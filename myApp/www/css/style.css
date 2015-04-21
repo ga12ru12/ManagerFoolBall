@@ -1,0 +1,20 @@
+/* Empty. Add your own CSS if you like */
+.bar.bar-stable {
+    border-color: #FF8106;
+    background-color: #FF8106;
+    color: #ffffff;
+}
+.loginView{
+    background: url("../img/background.jpg") 52% / cover no-repeat;
+}
+.loginForm {
+    background: white;
+    width: 90%;
+    margin: auto;
+    border-radius: 15px;
+    margin-top: 25px;
+    border-color: white;
+}
+.loginForm > .list{
+    margin: 0;
+}
