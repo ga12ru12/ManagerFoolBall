@@ -1,6 +1,6 @@
 angular.module('starter.controllers', [])
 
-.controller('AppCtrl', function($scope, $ionicModal, $timeout) {
+.controller('AppCtrl', function($scope, $ionicModal, $timeout, $state) {
   // Form data for the login modal
   $scope.loginData = {};
 
@@ -24,7 +24,7 @@ angular.module('starter.controllers', [])
   // Perform the login action when the user submits the login form
   $scope.doLogin = function() {
       console.log('Doing login', $scope.loginData);
-
+      $state.go('app.browse');
   };
 })
 
