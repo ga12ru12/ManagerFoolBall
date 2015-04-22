@@ -2,7 +2,107 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f728259-3d00-4cb2-b83d-d76d29d36144" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myApp/www/js/controllers.js" afterPath="$PROJECT_DIR$/myApp/www/js/controllers.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/serverApp/public/assets/font-awesome/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/serverApp/public/assets/img/blog-bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/serverApp/public/assets/img/checkbox-gray.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/serverApp/public/assets/font-awesome/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/serverApp/public/assets/font-awesome/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/serverApp/public/assets/font-awesome/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/serverApp/public/assets/img/friends/fr-01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/serverApp/public/assets/img/friends/fr-02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/serverApp/public/assets/img/friends/fr-03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/serverApp/public/assets/img/friends/fr-04.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/serverApp/public/assets/img/friends/fr-05.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/serverApp/public/assets/img/friends/fr-06.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/serverApp/public/assets/img/friends/fr-07.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/serverApp/public/assets/img/friends/fr-08.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/serverApp/public/assets/img/friends/fr-09.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/serverApp/public/assets/img/friends/fr-10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/serverApp/public/assets/img/friends/fr-11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/serverApp/public/assets/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/serverApp/public/assets/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/serverApp/public/assets/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/serverApp/public/assets/js/gritter/images/gritter-light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/serverApp/public/assets/js/gritter/images/gritter-long.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/serverApp/public/assets/js/gritter/images/gritter.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/serverApp/public/assets/js/gritter/images/ie-spacer.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/serverApp/public/assets/img/instagram.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/serverApp/public/assets/lineicons/fonts/linecons.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/serverApp/public/assets/lineicons/fonts/linecons.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/serverApp/public/assets/lineicons/fonts/linecons.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/serverApp/public/assets/img/login-bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/serverApp/public/assets/img/lorde.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/serverApp/public/assets/img/mask.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/serverApp/public/assets/img/ny.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/serverApp/public/assets/img/portfolio/port01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/serverApp/public/assets/img/portfolio/port02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/serverApp/public/assets/img/portfolio/port03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/serverApp/public/assets/img/portfolio/port04.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/serverApp/public/assets/img/portfolio/port05.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/serverApp/public/assets/img/portfolio/port06.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/serverApp/public/assets/img/product.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/serverApp/public/assets/img/product.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/serverApp/public/assets/img/profile-01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/serverApp/public/assets/img/profile-02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/serverApp/public/assets/img/radio-gray.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/serverApp/public/assets/img/ui-danro.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/serverApp/public/assets/img/ui-divya.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/serverApp/public/assets/img/ui-sam.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/serverApp/public/assets/img/ui-sherman.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/serverApp/public/assets/img/ui-zac.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/serverApp/public/assets/img/weather.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/serverApp/public/assets/img/zoom.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/serverApp/public/assets/js/chart-master/Chart.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/serverApp/public/assets/js/fullcalendar/bootstrap-fullcalendar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/serverApp/public/assets/js/bootstrap-inputmask/bootstrap-inputmask.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/serverApp/public/assets/js/bootstrap-switch.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/serverApp/public/assets/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/serverApp/public/assets/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/serverApp/public/assets/js/calendar-conf-events.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/serverApp/public/assets/js/chartjs-conf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/serverApp/public/assets/js/common-scripts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/serverApp/views/dashboard.ejs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/serverApp/public/assets/js/easy-pie-chart.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/serverApp/public/assets/font-awesome/css/font-awesome.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/serverApp/public/assets/font-awesome/fonts/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/serverApp/public/assets/js/form-component.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/serverApp/public/assets/js/fullcalendar/fullcalendar.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/serverApp/public/assets/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/serverApp/public/assets/js/gritter-conf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/serverApp/public/assets/lineicons/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/serverApp/public/assets/js/jquery-1.8.3.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/serverApp/public/assets/js/jquery-ui-1.9.2.custom.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/serverApp/public/assets/js/jquery.backstretch.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/serverApp/public/assets/js/jquery.dcjqaccordion.2.7.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/serverApp/public/assets/js/jquery-easy-pie-chart/jquery.easy-pie-chart.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/serverApp/public/assets/js/jquery-easy-pie-chart/jquery.easy-pie-chart.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/serverApp/public/assets/js/fancybox/jquery.fancybox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/serverApp/public/assets/js/fancybox/jquery.fancybox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/serverApp/public/assets/js/gritter/css/jquery.gritter.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/serverApp/public/assets/js/gritter/js/jquery.gritter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/serverApp/public/assets/js/gritter/css/jquery.gritter0.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/serverApp/public/assets/js/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/serverApp/public/assets/js/jquery.nicescroll.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/serverApp/public/assets/js/jquery.scrollTo.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/serverApp/public/assets/js/jquery.sparkline.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/serverApp/public/assets/js/jquery.tagsinput.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/serverApp/public/assets/js/jquery.ui.touch-punch.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/serverApp/public/assets/lineicons/fonts/linecons.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/serverApp/public/assets/lineicons/lte-ie7.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/serverApp/public/assets/js/morris-conf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/serverApp/public/assets/js/sparkline-chart.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/serverApp/public/assets/css/style-responsive.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/serverApp/public/assets/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/serverApp/public/assets/lineicons/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/serverApp/public/assets/css/table-responsive.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/serverApp/public/assets/js/tasks.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/serverApp/public/assets/css/to-do.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/serverApp/public/assets/css/zabuto_calendar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/serverApp/public/assets/js/zabuto_calendar.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/serverApp/app.js" afterPath="$PROJECT_DIR$/serverApp/app.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/serverApp/routes/index.js" afterPath="$PROJECT_DIR$/serverApp/routes/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/serverApp/package.json" afterPath="$PROJECT_DIR$/serverApp/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ManagerFoolBall.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -23,11 +123,77 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="controllers.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="controllers.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/myApp/www/js/controllers.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.52040815">
+            <state vertical-scroll-proportion="0.0">
               <caret line="27" column="4" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dashboard.ejs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/serverApp/views/dashboard.ejs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-23.538462">
+              <caret line="668" column="70" selection-start-line="668" selection-start-column="70" selection-end-line="668" selection-end-column="70" />
+              <folding>
+                <element signature="n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#header#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#a#0;n#li#1;n#ul#0;n#li#0;n#ul#0;n#div#1;n#header#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#a#0;n#li#2;n#ul#0;n#li#0;n#ul#0;n#div#1;n#header#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#a#0;n#li#3;n#ul#0;n#li#0;n#ul#0;n#div#1;n#header#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#a#0;n#li#4;n#ul#0;n#li#0;n#ul#0;n#div#1;n#header#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#aside#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#1;n#div#0;n#section#0;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#10;n#div#1;n#div#0;n#section#0;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h3#0;n#div#0;n#div#0;n#div#0;n#div#10;n#div#1;n#div#0;n#section#0;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <marker date="1429672744621" expanded="true" signature="34860:34873" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.ejs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/serverApp/views/index.ejs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/serverApp/routes/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.25542572">
+              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jquery.gritter.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/serverApp/public/assets/js/gritter/js/jquery.gritter.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1354878926000" expanded="true" signature="1852:1864" placeholder="..." />
+                <marker date="1354878926000" expanded="true" signature="2011:2021" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/serverApp/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-12.92">
+              <caret line="19" column="23" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -52,6 +218,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/myApp/www/js/controllers.js" />
+        <option value="$PROJECT_DIR$/serverApp/views/dashboard.ejs" />
+        <option value="$PROJECT_DIR$/serverApp/app.js" />
+        <option value="$PROJECT_DIR$/serverApp/routes/index.js" />
       </list>
     </option>
   </component>
@@ -108,18 +277,8 @@
               <option name="myItemId" value="ManagerFoolBall" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ManagerFoolBall" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ManagerFoolBall" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="myApp" />
+              <option name="myItemId" value="serverApp" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -133,33 +292,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="myApp" />
+              <option name="myItemId" value="serverApp" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="www" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ManagerFoolBall" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ManagerFoolBall" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="myApp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
+              <option name="myItemId" value="views" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -173,28 +310,99 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="myApp" />
+              <option name="myItemId" value="serverApp" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="www" />
+              <option name="myItemId" value="routes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ManagerFoolBall" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ManagerFoolBall" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
+              <option name="myItemId" value="serverApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ManagerFoolBall" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ManagerFoolBall" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
-    <property name="last_opened_file_path" value="E:/mDispatcher_new_version" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/serverApp/bin/www" />
+    <property name="recentsLimit" value="5" />
+    <property name="restartRequiresConfirmation" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Quang.Hoang\ManagerFoolBall\serverApp\public" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Node.js.Unnamed">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JsTestDriver-test-runner" factoryName="JsTestDriver">
+      <setting name="configLocationType" value="CONFIG_FILE" />
+      <setting name="settingsFile" value="" />
+      <setting name="serverType" value="INTERNAL" />
+      <setting name="preferredDebugBrowser" value="Chrome" />
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="false" name="Unnamed" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="serverApp/bin/www" working-dir="$PROJECT_DIR$">
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Node.js.Unnamed" />
+    </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="TaskManager">
@@ -212,20 +420,20 @@
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24973656" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32941177" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -237,6 +445,22 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/myApp/www/js/controllers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myApp/www/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="48" column="20" selection-start-line="48" selection-start-column="20" selection-end-line="48" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/myApp/www/js/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -247,8 +471,64 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/myApp/www/js/controllers.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.52040815">
+        <state vertical-scroll-proportion="0.0">
           <caret line="27" column="4" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/serverApp/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.92">
+          <caret line="19" column="23" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/serverApp/public/assets/js/gritter/js/jquery.gritter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1354878926000" expanded="true" signature="1852:1864" placeholder="..." />
+            <marker date="1354878926000" expanded="true" signature="2011:2021" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/serverApp/views/dashboard.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-23.538462">
+          <caret line="668" column="70" selection-start-line="668" selection-start-column="70" selection-end-line="668" selection-end-column="70" />
+          <folding>
+            <element signature="n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#header#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#a#0;n#li#1;n#ul#0;n#li#0;n#ul#0;n#div#1;n#header#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#a#0;n#li#2;n#ul#0;n#li#0;n#ul#0;n#div#1;n#header#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#a#0;n#li#3;n#ul#0;n#li#0;n#ul#0;n#div#1;n#header#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#a#0;n#li#4;n#ul#0;n#li#0;n#ul#0;n#div#1;n#header#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#aside#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#section#0;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#10;n#div#1;n#div#0;n#section#0;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h3#0;n#div#0;n#div#0;n#div#0;n#div#10;n#div#1;n#div#0;n#section#0;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1429672744621" expanded="true" signature="34860:34873" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/serverApp/views/index.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/serverApp/routes/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.25542572">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding />
         </state>
       </provider>
