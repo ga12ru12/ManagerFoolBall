@@ -831,8 +831,8 @@ ul.top-menu > li > a:hover, ul.top-menu > li > a:focus {
 /* LINE ICONS CONFIGURATION */
 
 .mtbox {
-	margin-top: 80px;
-	margin-bottom: 40px;
+	margin-top: 0;
+	margin-bottom: 16px;
 }
 
 .box1 {
@@ -858,7 +858,7 @@ ul.top-menu > li > a:hover, ul.top-menu > li > a:focus {
 .box0 p {
 	text-align: center;
 	font-size: 12px;
-	color: #f2f2f2;
+	color: white;
 }
 
 .box0:hover p {
